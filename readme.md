@@ -24,6 +24,53 @@ As our graduates step into the professional world, we hope EVA remains a small c
 
 ---
 
+## 🖨️ 3D Model & CAD Files
+
+The complete EVA design is available through Autodesk Fusion 360.
+
+### Accessing the Project
+
+1. Create or sign in to your Autodesk account.
+2. Install Autodesk Fusion 360.
+3. Contact @diordty in Instagram for request access to the EVA project workspace.
+4. Once access is granted, the project will appear inside your Fusion Team Hub.
+
+Project Structure:
+
+```text
+EVA
+├── BODY
+├── head_outer
+├── head_inner
+├── esp32 c3 supermini
+├── MPU6050 v2
+├── Display_OLED_SSD1306_1.3inch
+├── baterai
+├── cargador USB tipo C Ultra mini
+└── ...
+```
+
+### Included Files
+
+- Complete robot body assembly
+- Printable STL-ready parts
+- Electronics component models
+- Parametric Fusion 360 source files
+- Version history for future improvements
+
+### Contribution & Modifications
+
+Community members are welcome to contribute improvements and new ideas for EVA.
+
+To request edit access to the Fusion project, please contact the project maintainer. Access permissions are managed individually to ensure the integrity and continuity of the official EVA design.
+
+This allows future generations of Robotics UAJY members to continue developing EVA while preserving previous versions of the project.
+
+> EVA is intended to be a long-term community mascot project that can evolve across generations of Robotics UAJY members.
+
+````
+---
+
 ## ✨ Features
 
 - 👀 Smooth animated eyes using FluxGarage RoboEyes
@@ -83,7 +130,7 @@ The robot reacts to physical interaction through a simple emotional state machin
           ┌────────────┐
           │    Idle    │
           └────────────┘
-```
+````
 
 ---
 
