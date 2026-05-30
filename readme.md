@@ -1,4 +1,4 @@
-# 🤖 EVE - Expressive Desktop Robot
+# 🤖 EVA - Expressive Desktop Robot
 
 A tiny desktop robot powered by ESP32-C3, MPU6050, and OLED display that can express emotions through animated eyes.
 
@@ -8,17 +8,17 @@ A tiny desktop robot powered by ESP32-C3, MPU6050, and OLED display that can exp
 
 ---
 
-## 🎯 About EVE
+## 🎯 About EVA
 
-EVE is the official mascot of the Robotics Community at Universitas Atma Jaya Yogyakarta (UAJY).
+EVA is the official mascot of the Robotics Community at Universitas Atma Jaya Yogyakarta (UAJY).
 
 This little robot was created as a graduation gift for our fellow robotics members who are moving on to the next chapter of their lives.
 
-While EVE may only have a small OLED screen and a few electronic components, it carries something much larger: the spirit of curiosity, creativity, teamwork, and friendship that defines our community.
+While EVA may only have a small OLED screen and a few electronic components, it carries something much larger: the spirit of curiosity, creativity, teamwork, and friendship that defines our community.
 
-Through its animated expressions and playful reactions, EVE symbolizes the journey we shared together—from our first lines of code, failed prototypes, and competition preparations, to the successful projects and memories that shaped us as engineers.
+Through its animated expressions and playful reactions, EVA symbolizes the journey we shared together—from our first lines of code, failed prototypes, and competition preparations, to the successful projects and memories that shaped us as engineers.
 
-As our graduates step into the professional world, we hope EVE remains a small companion and a reminder that they will always be part of the Robotics UAJY family.
+As our graduates step into the professional world, we hope EVA remains a small companion and a reminder that they will always be part of the Robotics UAJY family.
 
 **Once a roboticist, always a roboticist. 🤖❤️**
 
