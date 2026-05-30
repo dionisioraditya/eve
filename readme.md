@@ -1,4 +1,4 @@
-# 🤖 EmoBot - Expressive Desktop Robot
+# 🤖 EVE - Expressive Desktop Robot
 
 A tiny desktop robot powered by ESP32-C3, MPU6050, and OLED display that can express emotions through animated eyes.
 
