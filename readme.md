@@ -3,7 +3,7 @@
 A tiny desktop robot powered by ESP32-C3, MPU6050, and OLED display that can express emotions through animated eyes.
 
 <p align="center">
-  <img src="images/emobot.jpg" width="300">
+  <img src="images.jpeg" width="300">
 </p>
 
 ## ✨ Features
